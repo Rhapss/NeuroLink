@@ -1,0 +1,13 @@
+F:\CODE\NeuroLink\NeuroLink\obj\Debug\netcoreapp3.1\NeuroLink.csprojAssemblyReference.cache
+F:\CODE\NeuroLink\NeuroLink\obj\Debug\netcoreapp3.1\NeuroLink.AssemblyInfoInputs.cache
+F:\CODE\NeuroLink\NeuroLink\obj\Debug\netcoreapp3.1\NeuroLink.AssemblyInfo.cs
+F:\CODE\NeuroLink\NeuroLink\obj\Debug\netcoreapp3.1\NeuroLink.csproj.CoreCompileInputs.cache
+F:\CODE\NeuroLink\NeuroLink\bin\Debug\netcoreapp3.1\NeuroLink.exe
+F:\CODE\NeuroLink\NeuroLink\bin\Debug\netcoreapp3.1\NeuroLink.deps.json
+F:\CODE\NeuroLink\NeuroLink\bin\Debug\netcoreapp3.1\NeuroLink.runtimeconfig.json
+F:\CODE\NeuroLink\NeuroLink\bin\Debug\netcoreapp3.1\NeuroLink.runtimeconfig.dev.json
+F:\CODE\NeuroLink\NeuroLink\bin\Debug\netcoreapp3.1\NeuroLink.dll
+F:\CODE\NeuroLink\NeuroLink\bin\Debug\netcoreapp3.1\NeuroLink.pdb
+F:\CODE\NeuroLink\NeuroLink\obj\Debug\netcoreapp3.1\NeuroLink.dll
+F:\CODE\NeuroLink\NeuroLink\obj\Debug\netcoreapp3.1\NeuroLink.pdb
+F:\CODE\NeuroLink\NeuroLink\obj\Debug\netcoreapp3.1\NeuroLink.genruntimeconfig.cache
